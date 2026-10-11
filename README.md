@@ -18,7 +18,7 @@ I build projects that connect hardware and software: robotics, embedded systems,
 ## More to explore
 
 - [Arduino experiments](https://github.com/YumTaha/Arduino): displays, LEDs, motion, temperature, and distance sensors.
-- [Python games](https://github.com/YumTaha?tab=repositories&q=&type=source&language=python&sort=): small Pygame projects and learning prototypes.
+- Archived Python/Pygame learning projects: [CleanUp](https://github.com/YumTaha/CleanUp), [T-Rex](https://github.com/YumTaha/T-Rex), [PingPong](https://github.com/YumTaha/PingPong), [Washito](https://github.com/YumTaha/Washito), and [Chrono-Detective](https://github.com/YumTaha/Chrono-Detective).
 - [My Sure fork](https://github.com/YumTaha/sure): a personal fork of the self-hosted finance app from [we-promise/sure](https://github.com/we-promise/sure).
 - [Matter sensor fork](https://github.com/YumTaha/matter_sensor_xiao_nrf52840): based on [uamphome's XIAO nRF52840 temperature and humidity sensor](https://github.com/uamphome/matter_sensor_xiao_nrf52840).
 
