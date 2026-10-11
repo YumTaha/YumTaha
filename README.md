@@ -4,6 +4,8 @@
 
 I build projects that connect hardware and software: robotics, embedded systems, sensor data collection, and practical tools for measurement and automation.
 
+**Portfolio:** [Project case studies and publications](https://yumtaha.github.io/)
+
 ## Selected projects
 
 | Project | What it does | Technologies |
